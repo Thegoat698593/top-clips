@@ -1,0 +1,114 @@
+[
+    {
+        "title": "Post 1",
+        "author": "[Nexus] Damien",
+        "date": "2025-06-18",
+        "image": "https://preview.redd.it/g51hrs9txwg41.png?width=960&crop=smart&auto=webp&s=97b1cd5fcf9bb0e3b8e19abb4da53c5c53013bad",
+        "body": "Nexus has released! Hope you enjoy.",
+        "fields": {
+            "Bugs & Feedback": "Report any bugs or issues in our Support Server.",
+            "Features": "✅ Stable Servers\n✅ Battlepass\n✅ Anticheat\n✅ Arena",
+            "Tutorial": "Need help? Take a look at the tutorial. \nhttps://youtu.be/wW7hyZ7RvIw"
+        },
+        "available": true,
+        "new": true
+    },
+    {
+        "title": "Post 2",
+        "author": "[Nexus] Alex",
+        "date": "2025-06-17",
+        "image": "https://i.ytimg.com/vi/26Atkle8R7Y/maxresdefault.jpg",
+        "body": "New features added to Nexus!",
+        "fields": {
+            "Bugs & Feedback": "Let us know about any issues in the Support Server.",
+            "Features": "✅ New Maps\n✅ Improved UI\n✅ Faster Load Times",
+            "Tutorial": "Check the tutorial here: \nhttps://youtu.be/example2"
+        },
+        "available": true,
+        "new": false
+    },
+    {
+        "title": "Post 3",
+        "author": "[Nexus] Jamie",
+        "date": "2025-06-16",
+        "image": "https://i.ytimg.com/vi/26Atkle8R7Y/maxresdefault.jpg",
+        "body": "Patch notes for the latest update.",
+        "fields": {
+            "Bugs & Feedback": "Report bugs in the Support Server.",
+            "Features": "✅ Bug Fixes\n✅ Performance Boost\n✅ New Skins",
+            "Tutorial": "Tutorial link: \nhttps://youtu.be/example3"
+        },
+        "available": true,
+        "new": false
+    },
+    {
+        "title": "Post 4",
+        "author": "[Nexus] Taylor",
+        "date": "2025-06-15",
+        "image": "https://i.ytimg.com/vi/26Atkle8R7Y/maxresdefault.jpg",
+        "body": "Community event announcement!",
+        "fields": {
+            "Bugs & Feedback": "Share your feedback in the Support Server.",
+            "Features": "✅ Event Rewards\n✅ Limited Skins\n✅ Special Modes",
+            "Tutorial": "Event guide: \nhttps://youtu.be/example4"
+        },
+        "available": true,
+        "new": false
+    },
+    {
+        "title": "Post 5",
+        "author": "[Nexus] Sam",
+        "date": "2025-06-14",
+        "image": "https://i.ytimg.com/vi/26Atkle8R7Y/maxresdefault.jpg",
+        "body": "New season starts today!",
+        "fields": {
+            "Bugs & Feedback": "Report issues in the Support Server.",
+            "Features": "✅ Season Pass\n✅ New Challenges\n✅ Ranked Mode",
+            "Tutorial": "Season guide: \nhttps://youtu.be/example5"
+        },
+        "available": true,
+        "new": false
+    },
+    {
+        "title": "Post 6",
+        "author": "[Nexus] Casey",
+        "date": "2025-06-13",
+        "image": "https://i.ytimg.com/vi/26Atkle8R7Y/maxresdefault.jpg",
+        "body": "Server maintenance scheduled.",
+        "fields": {
+            "Bugs & Feedback": "Feedback welcome in the Support Server.",
+            "Features": "✅ Improved Stability\n✅ Reduced Lag\n✅ Bug Fixes",
+            "Tutorial": "Maintenance info: \nhttps://youtu.be/example6"
+        },
+        "available": true,
+        "new": false
+    },
+    {
+        "title": "Post 7",
+        "author": "[Nexus] Riley",
+        "date": "2025-06-12",
+        "image": "https://i.ytimg.com/vi/26Atkle8R7Y/maxresdefault.jpg",
+        "body": "New skins available now!",
+        "fields": {
+            "Bugs & Feedback": "Report bugs in the Support Server.",
+            "Features": "✅ Exclusive Skins\n✅ Customization Options\n✅ New Emotes",
+            "Tutorial": "Skin guide: \nhttps://youtu.be/example7"
+        },
+        "available": true,
+        "new": false
+    },
+    {
+        "title": "Post 8",
+        "author": "[Nexus] Morgan",
+        "date": "2025-06-11",
+        "image": "https://i.ytimg.com/vi/26Atkle8R7Y/maxresdefault.jpg",
+        "body": "Join our Discord community!",
+        "fields": {
+            "Bugs & Feedback": "Share feedback in the Support Server.",
+            "Features": "✅ Community Events\n✅ Giveaways\n✅ Support Channels",
+            "Tutorial": "Discord link: \nhttps://youtu.be/example8"
+        },
+        "available": true,
+        "new": false
+    }
+]
